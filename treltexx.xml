@@ -18,4 +18,6 @@
   <!--Custom Forks-->
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="ratmole/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="lineage-16.0" />
+  
 </manifest>
